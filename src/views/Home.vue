@@ -219,7 +219,8 @@ text-transform: capitalize;
 }
 .hero{
 display: grid;
-background: url('../assets/img/bg-home.jpg');
+background:linear-gradient(#66666680, #66666680),
+url('../assets/img/bg-home.jpg');
 background-size: cover;
 background-position: center;
 height: 600px;
